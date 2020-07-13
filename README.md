@@ -1,3 +1,7 @@
+redux-thunkを用いた非同期通信のカウントApp
+カウントアップについてかsetTimeoutを用いて2秒後にカウントアップされる。
+ここで、非同期通信を使用している。
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
